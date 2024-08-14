@@ -1,5 +1,6 @@
 # blue-sky-puzzle
 Project Overview
+
 This project involves the analysis of data retrieved from various subreddits. The primary focus is on analyzing comments from these subreddits to understand certain patterns and trends. The project is divided into two main parts:
 
 Data Wrangling and Pre-processing (Part 1):
