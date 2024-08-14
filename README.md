@@ -13,6 +13,8 @@ The data is retrieved from The Eye (https://the-eye.eu/redarcs/) and includes su
 **Data Wrangling and Pre-processing (Part 1)**
 This phase is conducted using Python. The datasets are cleaned, transformed, and prepared for analysis. The specific Python packages used are listed in python_requirement.txt.
 Python version used: 3.11.7
+- Syntax: Refer to Data Wrangling.ipynb
+- Dataset: Visit The Eye and locate the datasets mentioned under **Dataset Source**
 ***
 **Statistical Analysis (Part 2)**
 The majority of the statistical analyses are performed using R. These analyses are essential for deriving insights from the processed data. The R packages used are listed in r_requirement.txt.
